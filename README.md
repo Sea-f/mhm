@@ -3,8 +3,8 @@
 
 ### 项目演示
 #官网地址：https://www.maihaome.com/
-#APP上线地址：http://39.97.244.202:1910/
-#后台管理系统地址：管理员账户：lhh  密码123456
+#APP上线地址：http://118.31.67.41:1910/
+#后台管理系统地址：管理员账户：dyc  密码123456
 
 ### 团队协作分工
 组长：董彦辰 组员：黎宏鸿，黄鑫，梁丹梅
@@ -37,23 +37,23 @@
 .png)
 
 ### Customize configuration
-![订单（购物车）](https://github.com/gzh51910/mhm/blob/new/src/img/mhm_card.png)
+![订单（购物车）](https://github.com/Sea-f/mhm/src/img/mhm_card.png)
 
-![详情](https://github.com/gzh51910/mhm/blob/new/src/img/mhm_goods.png)
+![详情](https://github.com/Sea-f/mhm/src/img/mhm_goods.png)
 
-![首页](https://github.com/gzh51910/mhm/blob/new/src/img/mhm_home.png)
+![首页](https://github.com/Sea-f/mhm/src/img/mhm_home.png)
 
-![列表](https://github.com/gzh51910/mhm/blob/new/src/img/mhm_list.png)
+![列表](https://github.com/Sea-f/mhm/src/img/mhm_list.png)
 
-![登录](https://github.com/gzh51910/mhm/blob/new/src/img/mhm_login.png)
+![登录](https://github.com/Sea-f/mhm/src/img/mhm_login.png)
 
-![我的](https://github.com/gzh51910/mhm/blob/new/src/img/mhm_me.png)
+![我的](https://github.com/Sea-f/mhm/src/img/mhm_me.png)
 
-![端游](https://github.com/gzh51910/mhm/blob/new/src/img/mhm_pc.png)
+![端游](https://github.com/Sea-f/mhm/src/img/mhm_pc.png)
 
-![手游](https://github.com/gzh51910/mhm/blob/new/src/img/mhm_phone.png)
+![手游](https://github.com/Sea-f/mhm/src/img/mhm_phone.png)
 
-![注册](https://github.com/gzh51910/mhm/blob/new/src/img/mhm_reg.png)
+![注册](https://github.com/Sea-f/mhm/src/img/mhm_reg.png)
 
 
 
